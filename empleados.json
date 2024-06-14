@@ -1,17 +1,16 @@
 [
     {
+        "id_empleado": "E1",
         "nombre": "Alan",
         "apellido": "Brito",
-        "sueldo": 450000
+        "sueldo": 450000,
+        "id_cargo": "C2"
     },
     {
-        "nombre": "Maria",
-        "apellido": "Dolores",
-        "sueldo": 600000
-    },
-    {
-        "nombre": "Era",
-        "apellido": "Syndulla",
-        "sueldo": 800000
+        "id_empleado": "E3",
+        "nombre": "Sergio",
+        "apellido": "Soto",
+        "sueldo": 1500000,
+        "id_cargo": "C1"
     }
 ]

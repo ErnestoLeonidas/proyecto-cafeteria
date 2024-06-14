@@ -1,0 +1,22 @@
+id_producto,nombre_producto,precio,stock
+P01,Café Expreso,1500,100
+P02,Café Americano,1200,100
+P03,Café Latte,2500,50
+P04,Capuchino,2400,50
+P05,Té Negro,1300,80
+P06,Té Verde,1300,80
+P07,Panini de Pollo,3500,30
+P08,Panini Vegetariano,3400,30
+P09,Pastel de Chocolate,1800,40
+P10,Torta de Zanahoria,2000,40
+P11,Jugo Natural de Naranja,1500,70
+P12,Jugo Natural de Manzana,1500,70
+P13,Empanada de Carne,1500,60
+P14,Empanada de Queso,1400,60
+P15,Sandwich de Miga,1200,50
+P16,Sandwich Vegano,2000,50
+P17,Donut,900,90
+P18,Galletas,800,100
+P19,Frappé,2600,40
+P20,Smoothie,2200,50
+P21,Completo Italiano,1500,100

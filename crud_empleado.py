@@ -1,6 +1,6 @@
 import os
 import json
-os.system("clear")
+os.system("cls")
 
 URL_EMPLEADOS = 'empleados.json'
 # URL_PRODUCTOS = 
@@ -21,7 +21,7 @@ def guardar_archivo_json(url, data):
         return []
     
 def crear_empleado():
-    os.system("clear")
+    os.system("cls")
     print("== REGISTRAR DE EMPLEADO ==")
     empleados = leer_archivo_json(URL_EMPLEADOS)
     
@@ -44,7 +44,7 @@ def crear_empleado():
     guardar_archivo_json(URL_EMPLEADOS, empleados)
 
 def listar_empleados():
-    os.system("clear")
+    os.system("cls")
     print("== LISTADO DE EMPLEADOS ==")
 
     empleados = leer_archivo_json(URL_EMPLEADOS)
@@ -62,7 +62,7 @@ def listar_empleados():
         print(row)
 
 def actualizar_empleado():
-    os.system("clear")
+    os.system("cls")
     print("== EDITAR DE EMPLEADO ==")
     empleados = leer_archivo_json(URL_EMPLEADOS)
     
@@ -85,7 +85,7 @@ def actualizar_empleado():
     guardar_archivo_json(URL_EMPLEADOS, empleados)
             
 def eliminar_empleado():
-    os.system("clear")
+    os.system("cls")
     print("== BORRAR DE EMPLEADO ==")
     empleados = leer_archivo_json(URL_EMPLEADOS)
     
@@ -101,7 +101,7 @@ def eliminar_empleado():
     guardar_archivo_json(URL_EMPLEADOS, empleados_que_quedan)
     
 def menu_general():
-    os.system("clear")
+    os.system("cls")
     print("== EMPLEADOS ==")
     print("1. Crear         - Create")
     print("2. Actualizar    - Update")

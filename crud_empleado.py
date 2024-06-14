@@ -3,8 +3,6 @@ import json
 os.system("clear")
 
 URL_EMPLEADOS = 'empleados.json'
-# URL_CARGOS
-# URL_PRODUCTOS
 
 def cargar_json(url_archivo):
     try:

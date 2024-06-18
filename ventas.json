@@ -1,0 +1,2300 @@
+[
+    {
+        "id_venta": "V101",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 8400,
+        "productos": [
+            {
+                "id_producto": "P03",
+                "cantidad": 2,
+                "precio_unitario": 2500,
+                "subtotal": 5000
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 2,
+                "precio_unitario": 3500,
+                "subtotal": 7000
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            }
+        ],
+        "propina": 840
+    },
+    {
+        "id_venta": "V102",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 6400,
+        "productos": [
+            {
+                "id_producto": "P04",
+                "cantidad": 2,
+                "precio_unitario": 2400,
+                "subtotal": 4800
+            },
+            {
+                "id_producto": "P13",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P09",
+                "cantidad": 1,
+                "precio_unitario": 1800,
+                "subtotal": 1800
+            }
+        ],
+        "propina": 640
+    },
+    {
+        "id_venta": "V103",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 13100,
+        "productos": [
+            {
+                "id_producto": "P18",
+                "cantidad": 1,
+                "precio_unitario": 800,
+                "subtotal": 800
+            },
+            {
+                "id_producto": "P21",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P05",
+                "cantidad": 1,
+                "precio_unitario": 1300,
+                "subtotal": 1300
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 1,
+                "precio_unitario": 3500,
+                "subtotal": 3500
+            },
+            {
+                "id_producto": "P13",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            }
+        ],
+        "propina": 1310
+    },
+    {
+        "id_venta": "V104",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 20100,
+        "productos": [
+            {
+                "id_producto": "P21",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P20",
+                "cantidad": 2,
+                "precio_unitario": 2200,
+                "subtotal": 4400
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 2,
+                "precio_unitario": 2500,
+                "subtotal": 5000
+            },
+            {
+                "id_producto": "P20",
+                "cantidad": 3,
+                "precio_unitario": 2200,
+                "subtotal": 6600
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 1,
+                "precio_unitario": 2600,
+                "subtotal": 2600
+            }
+        ],
+        "propina": 2010
+    },
+    {
+        "id_venta": "V105",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 12500,
+        "productos": [
+            {
+                "id_producto": "P21",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P11",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 3,
+                "precio_unitario": 2000,
+                "subtotal": 6000
+            },
+            {
+                "id_producto": "P16",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            }
+        ],
+        "propina": 1250
+    },
+    {
+        "id_venta": "V106",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 4400,
+        "productos": [
+            {
+                "id_producto": "P20",
+                "cantidad": 2,
+                "precio_unitario": 2200,
+                "subtotal": 4400
+            }
+        ],
+        "propina": 440
+    },
+    {
+        "id_venta": "V107",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 21300,
+        "productos": [
+            {
+                "id_producto": "P19",
+                "cantidad": 2,
+                "precio_unitario": 2600,
+                "subtotal": 5200
+            },
+            {
+                "id_producto": "P11",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 3,
+                "precio_unitario": 2500,
+                "subtotal": 7500
+            },
+            {
+                "id_producto": "P21",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 1,
+                "precio_unitario": 2600,
+                "subtotal": 2600
+            }
+        ],
+        "propina": 2130
+    },
+    {
+        "id_venta": "V108",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 16700,
+        "productos": [
+            {
+                "id_producto": "P09",
+                "cantidad": 3,
+                "precio_unitario": 1800,
+                "subtotal": 5400
+            },
+            {
+                "id_producto": "P15",
+                "cantidad": 3,
+                "precio_unitario": 1200,
+                "subtotal": 3600
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 1,
+                "precio_unitario": 3500,
+                "subtotal": 3500
+            },
+            {
+                "id_producto": "P18",
+                "cantidad": 1,
+                "precio_unitario": 800,
+                "subtotal": 800
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 1,
+                "precio_unitario": 3400,
+                "subtotal": 3400
+            }
+        ],
+        "propina": 1670
+    },
+    {
+        "id_venta": "V109",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 9600,
+        "productos": [
+            {
+                "id_producto": "P20",
+                "cantidad": 3,
+                "precio_unitario": 2200,
+                "subtotal": 6600
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            }
+        ],
+        "propina": 960
+    },
+    {
+        "id_venta": "V110",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 14900,
+        "productos": [
+            {
+                "id_producto": "P14",
+                "cantidad": 3,
+                "precio_unitario": 1400,
+                "subtotal": 4200
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 1,
+                "precio_unitario": 3500,
+                "subtotal": 3500
+            },
+            {
+                "id_producto": "P04",
+                "cantidad": 3,
+                "precio_unitario": 2400,
+                "subtotal": 7200
+            }
+        ],
+        "propina": 1490
+    },
+    {
+        "id_venta": "V111",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 3500,
+        "productos": [
+            {
+                "id_producto": "P10",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            }
+        ],
+        "propina": 350
+    },
+    {
+        "id_venta": "V112",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 15100,
+        "productos": [
+            {
+                "id_producto": "P17",
+                "cantidad": 2,
+                "precio_unitario": 900,
+                "subtotal": 1800
+            },
+            {
+                "id_producto": "P13",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P15",
+                "cantidad": 2,
+                "precio_unitario": 1200,
+                "subtotal": 2400
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 1,
+                "precio_unitario": 3400,
+                "subtotal": 3400
+            },
+            {
+                "id_producto": "P13",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            }
+        ],
+        "propina": 1510
+    },
+    {
+        "id_venta": "V113",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 1600,
+        "productos": [
+            {
+                "id_producto": "P18",
+                "cantidad": 2,
+                "precio_unitario": 800,
+                "subtotal": 1600
+            }
+        ],
+        "propina": 160
+    },
+    {
+        "id_venta": "V114",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 20900,
+        "productos": [
+            {
+                "id_producto": "P07",
+                "cantidad": 3,
+                "precio_unitario": 3500,
+                "subtotal": 10500
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 3,
+                "precio_unitario": 2600,
+                "subtotal": 7800
+            },
+            {
+                "id_producto": "P06",
+                "cantidad": 2,
+                "precio_unitario": 1300,
+                "subtotal": 2600
+            }
+        ],
+        "propina": 2090
+    },
+    {
+        "id_venta": "V115",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 4300,
+        "productos": [
+            {
+                "id_producto": "P14",
+                "cantidad": 2,
+                "precio_unitario": 1400,
+                "subtotal": 2800
+            },
+            {
+                "id_producto": "P13",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            }
+        ],
+        "propina": 430
+    },
+    {
+        "id_venta": "V116",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 2000,
+        "productos": [
+            {
+                "id_producto": "P16",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            }
+        ],
+        "propina": 200
+    },
+    {
+        "id_venta": "V117",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 13900,
+        "productos": [
+            {
+                "id_producto": "P11",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 1,
+                "precio_unitario": 3400,
+                "subtotal": 3400
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 3,
+                "precio_unitario": 2000,
+                "subtotal": 6000
+            }
+        ],
+        "propina": 1390
+    },
+    {
+        "id_venta": "V118",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 23000,
+        "productos": [
+            {
+                "id_producto": "P13",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P11",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P04",
+                "cantidad": 2,
+                "precio_unitario": 2400,
+                "subtotal": 4800
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 3,
+                "precio_unitario": 2600,
+                "subtotal": 7800
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 1,
+                "precio_unitario": 1400,
+                "subtotal": 1400
+            }
+        ],
+        "propina": 2300
+    },
+    {
+        "id_venta": "V119",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 15900,
+        "productos": [
+            {
+                "id_producto": "P15",
+                "cantidad": 2,
+                "precio_unitario": 1200,
+                "subtotal": 2400
+            },
+            {
+                "id_producto": "P16",
+                "cantidad": 3,
+                "precio_unitario": 2000,
+                "subtotal": 6000
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 3,
+                "precio_unitario": 2500,
+                "subtotal": 7500
+            }
+        ],
+        "propina": 1590
+    },
+    {
+        "id_venta": "V120",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 16000,
+        "productos": [
+            {
+                "id_producto": "P01",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P16",
+                "cantidad": 3,
+                "precio_unitario": 2000,
+                "subtotal": 6000
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 2,
+                "precio_unitario": 2000,
+                "subtotal": 4000
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            }
+        ],
+        "propina": 1600
+    },
+    {
+        "id_venta": "V121",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 10200,
+        "productos": [
+            {
+                "id_producto": "P20",
+                "cantidad": 2,
+                "precio_unitario": 2200,
+                "subtotal": 4400
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 1,
+                "precio_unitario": 3400,
+                "subtotal": 3400
+            },
+            {
+                "id_producto": "P18",
+                "cantidad": 3,
+                "precio_unitario": 800,
+                "subtotal": 2400
+            }
+        ],
+        "propina": 1020
+    },
+    {
+        "id_venta": "V122",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 12500,
+        "productos": [
+            {
+                "id_producto": "P03",
+                "cantidad": 2,
+                "precio_unitario": 2500,
+                "subtotal": 5000
+            },
+            {
+                "id_producto": "P15",
+                "cantidad": 3,
+                "precio_unitario": 1200,
+                "subtotal": 3600
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P04",
+                "cantidad": 1,
+                "precio_unitario": 2400,
+                "subtotal": 2400
+            }
+        ],
+        "propina": 1250
+    },
+    {
+        "id_venta": "V123",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 7200,
+        "productos": [
+            {
+                "id_producto": "P04",
+                "cantidad": 3,
+                "precio_unitario": 2400,
+                "subtotal": 7200
+            }
+        ],
+        "propina": 720
+    },
+    {
+        "id_venta": "V124",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 18000,
+        "productos": [
+            {
+                "id_producto": "P12",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 2,
+                "precio_unitario": 1400,
+                "subtotal": 2800
+            },
+            {
+                "id_producto": "P04",
+                "cantidad": 3,
+                "precio_unitario": 2400,
+                "subtotal": 7200
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 1,
+                "precio_unitario": 2600,
+                "subtotal": 2600
+            },
+            {
+                "id_producto": "P06",
+                "cantidad": 3,
+                "precio_unitario": 1300,
+                "subtotal": 3900
+            }
+        ],
+        "propina": 1800
+    },
+    {
+        "id_venta": "V125",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 3900,
+        "productos": [
+            {
+                "id_producto": "P06",
+                "cantidad": 3,
+                "precio_unitario": 1300,
+                "subtotal": 3900
+            }
+        ],
+        "propina": 390
+    },
+    {
+        "id_venta": "V126",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 9600,
+        "productos": [
+            {
+                "id_producto": "P09",
+                "cantidad": 1,
+                "precio_unitario": 1800,
+                "subtotal": 1800
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 3,
+                "precio_unitario": 2600,
+                "subtotal": 7800
+            }
+        ],
+        "propina": 960
+    },
+    {
+        "id_venta": "V127",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 6900,
+        "productos": [
+            {
+                "id_producto": "P17",
+                "cantidad": 1,
+                "precio_unitario": 900,
+                "subtotal": 900
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 3,
+                "precio_unitario": 2000,
+                "subtotal": 6000
+            }
+        ],
+        "propina": 690
+    },
+    {
+        "id_venta": "V128",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 14200,
+        "productos": [
+            {
+                "id_producto": "P19",
+                "cantidad": 2,
+                "precio_unitario": 2600,
+                "subtotal": 5200
+            },
+            {
+                "id_producto": "P18",
+                "cantidad": 2,
+                "precio_unitario": 800,
+                "subtotal": 1600
+            },
+            {
+                "id_producto": "P18",
+                "cantidad": 2,
+                "precio_unitario": 800,
+                "subtotal": 1600
+            },
+            {
+                "id_producto": "P09",
+                "cantidad": 2,
+                "precio_unitario": 1800,
+                "subtotal": 3600
+            },
+            {
+                "id_producto": "P20",
+                "cantidad": 1,
+                "precio_unitario": 2200,
+                "subtotal": 2200
+            }
+        ],
+        "propina": 1420
+    },
+    {
+        "id_venta": "V129",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 10100,
+        "productos": [
+            {
+                "id_producto": "P02",
+                "cantidad": 3,
+                "precio_unitario": 1200,
+                "subtotal": 3600
+            },
+            {
+                "id_producto": "P11",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P15",
+                "cantidad": 2,
+                "precio_unitario": 1200,
+                "subtotal": 2400
+            },
+            {
+                "id_producto": "P05",
+                "cantidad": 2,
+                "precio_unitario": 1300,
+                "subtotal": 2600
+            }
+        ],
+        "propina": 1010
+    },
+    {
+        "id_venta": "V130",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 15800,
+        "productos": [
+            {
+                "id_producto": "P11",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P06",
+                "cantidad": 1,
+                "precio_unitario": 1300,
+                "subtotal": 1300
+            },
+            {
+                "id_producto": "P20",
+                "cantidad": 2,
+                "precio_unitario": 2200,
+                "subtotal": 4400
+            },
+            {
+                "id_producto": "P02",
+                "cantidad": 3,
+                "precio_unitario": 1200,
+                "subtotal": 3600
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            }
+        ],
+        "propina": 1580
+    },
+    {
+        "id_venta": "V131",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 18900,
+        "productos": [
+            {
+                "id_producto": "P04",
+                "cantidad": 1,
+                "precio_unitario": 2400,
+                "subtotal": 2400
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 3,
+                "precio_unitario": 2500,
+                "subtotal": 7500
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 3,
+                "precio_unitario": 2500,
+                "subtotal": 7500
+            },
+            {
+                "id_producto": "P21",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            }
+        ],
+        "propina": 1890
+    },
+    {
+        "id_venta": "V132",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 23100,
+        "productos": [
+            {
+                "id_producto": "P04",
+                "cantidad": 3,
+                "precio_unitario": 2400,
+                "subtotal": 7200
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 2,
+                "precio_unitario": 2000,
+                "subtotal": 4000
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 3,
+                "precio_unitario": 2500,
+                "subtotal": 7500
+            },
+            {
+                "id_producto": "P20",
+                "cantidad": 2,
+                "precio_unitario": 2200,
+                "subtotal": 4400
+            }
+        ],
+        "propina": 2310
+    },
+    {
+        "id_venta": "V133",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 16500,
+        "productos": [
+            {
+                "id_producto": "P15",
+                "cantidad": 2,
+                "precio_unitario": 1200,
+                "subtotal": 2400
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 3,
+                "precio_unitario": 3400,
+                "subtotal": 10200
+            },
+            {
+                "id_producto": "P06",
+                "cantidad": 3,
+                "precio_unitario": 1300,
+                "subtotal": 3900
+            }
+        ],
+        "propina": 1650
+    },
+    {
+        "id_venta": "V134",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 7200,
+        "productos": [
+            {
+                "id_producto": "P18",
+                "cantidad": 1,
+                "precio_unitario": 800,
+                "subtotal": 800
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 1,
+                "precio_unitario": 3400,
+                "subtotal": 3400
+            }
+        ],
+        "propina": 720
+    },
+    {
+        "id_venta": "V135",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 11900,
+        "productos": [
+            {
+                "id_producto": "P12",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P20",
+                "cantidad": 2,
+                "precio_unitario": 2200,
+                "subtotal": 4400
+            },
+            {
+                "id_producto": "P15",
+                "cantidad": 1,
+                "precio_unitario": 1200,
+                "subtotal": 1200
+            },
+            {
+                "id_producto": "P11",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P17",
+                "cantidad": 2,
+                "precio_unitario": 900,
+                "subtotal": 1800
+            }
+        ],
+        "propina": 1190
+    },
+    {
+        "id_venta": "V136",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 10400,
+        "productos": [
+            {
+                "id_producto": "P08",
+                "cantidad": 1,
+                "precio_unitario": 3400,
+                "subtotal": 3400
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 2,
+                "precio_unitario": 3500,
+                "subtotal": 7000
+            }
+        ],
+        "propina": 1040
+    },
+    {
+        "id_venta": "V137",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 28400,
+        "productos": [
+            {
+                "id_producto": "P03",
+                "cantidad": 3,
+                "precio_unitario": 2500,
+                "subtotal": 7500
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 3,
+                "precio_unitario": 3400,
+                "subtotal": 10200
+            },
+            {
+                "id_producto": "P02",
+                "cantidad": 1,
+                "precio_unitario": 1200,
+                "subtotal": 1200
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 2,
+                "precio_unitario": 2500,
+                "subtotal": 5000
+            }
+        ],
+        "propina": 2840
+    },
+    {
+        "id_venta": "V138",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 2600,
+        "productos": [
+            {
+                "id_producto": "P06",
+                "cantidad": 2,
+                "precio_unitario": 1300,
+                "subtotal": 2600
+            }
+        ],
+        "propina": 260
+    },
+    {
+        "id_venta": "V139",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 2400,
+        "productos": [
+            {
+                "id_producto": "P02",
+                "cantidad": 2,
+                "precio_unitario": 1200,
+                "subtotal": 2400
+            }
+        ],
+        "propina": 240
+    },
+    {
+        "id_venta": "V140",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 6800,
+        "productos": [
+            {
+                "id_producto": "P04",
+                "cantidad": 1,
+                "precio_unitario": 2400,
+                "subtotal": 2400
+            },
+            {
+                "id_producto": "P20",
+                "cantidad": 2,
+                "precio_unitario": 2200,
+                "subtotal": 4400
+            }
+        ],
+        "propina": 680
+    },
+    {
+        "id_venta": "V141",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 5900,
+        "productos": [
+            {
+                "id_producto": "P20",
+                "cantidad": 2,
+                "precio_unitario": 2200,
+                "subtotal": 4400
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            }
+        ],
+        "propina": 590
+    },
+    {
+        "id_venta": "V142",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 8000,
+        "productos": [
+            {
+                "id_producto": "P01",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P13",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P16",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            }
+        ],
+        "propina": 800
+    },
+    {
+        "id_venta": "V143",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 8300,
+        "productos": [
+            {
+                "id_producto": "P05",
+                "cantidad": 1,
+                "precio_unitario": 1300,
+                "subtotal": 1300
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 2,
+                "precio_unitario": 3500,
+                "subtotal": 7000
+            }
+        ],
+        "propina": 830
+    },
+    {
+        "id_venta": "V144",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 13600,
+        "productos": [
+            {
+                "id_producto": "P18",
+                "cantidad": 1,
+                "precio_unitario": 800,
+                "subtotal": 800
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 2,
+                "precio_unitario": 1400,
+                "subtotal": 2800
+            },
+            {
+                "id_producto": "P17",
+                "cantidad": 3,
+                "precio_unitario": 900,
+                "subtotal": 2700
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 3,
+                "precio_unitario": 2000,
+                "subtotal": 6000
+            },
+            {
+                "id_producto": "P06",
+                "cantidad": 1,
+                "precio_unitario": 1300,
+                "subtotal": 1300
+            }
+        ],
+        "propina": 1360
+    },
+    {
+        "id_venta": "V145",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 10400,
+        "productos": [
+            {
+                "id_producto": "P19",
+                "cantidad": 2,
+                "precio_unitario": 2600,
+                "subtotal": 5200
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 2,
+                "precio_unitario": 2600,
+                "subtotal": 5200
+            }
+        ],
+        "propina": 1040
+    },
+    {
+        "id_venta": "V146",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 12500,
+        "productos": [
+            {
+                "id_producto": "P01",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P06",
+                "cantidad": 2,
+                "precio_unitario": 1300,
+                "subtotal": 2600
+            },
+            {
+                "id_producto": "P15",
+                "cantidad": 2,
+                "precio_unitario": 1200,
+                "subtotal": 2400
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 1,
+                "precio_unitario": 1400,
+                "subtotal": 1400
+            },
+            {
+                "id_producto": "P18",
+                "cantidad": 2,
+                "precio_unitario": 800,
+                "subtotal": 1600
+            }
+        ],
+        "propina": 1250
+    },
+    {
+        "id_venta": "V147",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 7500,
+        "productos": [
+            {
+                "id_producto": "P15",
+                "cantidad": 3,
+                "precio_unitario": 1200,
+                "subtotal": 3600
+            },
+            {
+                "id_producto": "P05",
+                "cantidad": 3,
+                "precio_unitario": 1300,
+                "subtotal": 3900
+            }
+        ],
+        "propina": 750
+    },
+    {
+        "id_venta": "V148",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 2300,
+        "productos": [
+            {
+                "id_producto": "P18",
+                "cantidad": 1,
+                "precio_unitario": 800,
+                "subtotal": 800
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            }
+        ],
+        "propina": 230
+    },
+    {
+        "id_venta": "V149",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 11100,
+        "productos": [
+            {
+                "id_producto": "P08",
+                "cantidad": 2,
+                "precio_unitario": 3400,
+                "subtotal": 6800
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 2,
+                "precio_unitario": 1400,
+                "subtotal": 2800
+            }
+        ],
+        "propina": 1110
+    },
+    {
+        "id_venta": "V150",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 11000,
+        "productos": [
+            {
+                "id_producto": "P11",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 1,
+                "precio_unitario": 3400,
+                "subtotal": 3400
+            },
+            {
+                "id_producto": "P09",
+                "cantidad": 1,
+                "precio_unitario": 1800,
+                "subtotal": 1800
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 2,
+                "precio_unitario": 1400,
+                "subtotal": 2800
+            }
+        ],
+        "propina": 1100
+    },
+    {
+        "id_venta": "V151",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 18200,
+        "productos": [
+            {
+                "id_producto": "P09",
+                "cantidad": 3,
+                "precio_unitario": 1800,
+                "subtotal": 5400
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P05",
+                "cantidad": 2,
+                "precio_unitario": 1300,
+                "subtotal": 2600
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P02",
+                "cantidad": 1,
+                "precio_unitario": 1200,
+                "subtotal": 1200
+            }
+        ],
+        "propina": 1820
+    },
+    {
+        "id_venta": "V152",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 21100,
+        "productos": [
+            {
+                "id_producto": "P03",
+                "cantidad": 1,
+                "precio_unitario": 2500,
+                "subtotal": 2500
+            },
+            {
+                "id_producto": "P05",
+                "cantidad": 3,
+                "precio_unitario": 1300,
+                "subtotal": 3900
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 3,
+                "precio_unitario": 3400,
+                "subtotal": 10200
+            },
+            {
+                "id_producto": "P21",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            }
+        ],
+        "propina": 2110
+    },
+    {
+        "id_venta": "V153",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 8100,
+        "productos": [
+            {
+                "id_producto": "P09",
+                "cantidad": 3,
+                "precio_unitario": 1800,
+                "subtotal": 5400
+            },
+            {
+                "id_producto": "P17",
+                "cantidad": 3,
+                "precio_unitario": 900,
+                "subtotal": 2700
+            }
+        ],
+        "propina": 810
+    },
+    {
+        "id_venta": "V154",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 5200,
+        "productos": [
+            {
+                "id_producto": "P19",
+                "cantidad": 2,
+                "precio_unitario": 2600,
+                "subtotal": 5200
+            }
+        ],
+        "propina": 520
+    },
+    {
+        "id_venta": "V155",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 17500,
+        "productos": [
+            {
+                "id_producto": "P10",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            },
+            {
+                "id_producto": "P13",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P17",
+                "cantidad": 2,
+                "precio_unitario": 900,
+                "subtotal": 1800
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 2,
+                "precio_unitario": 3400,
+                "subtotal": 6800
+            },
+            {
+                "id_producto": "P04",
+                "cantidad": 1,
+                "precio_unitario": 2400,
+                "subtotal": 2400
+            }
+        ],
+        "propina": 1750
+    },
+    {
+        "id_venta": "V156",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 19100,
+        "productos": [
+            {
+                "id_producto": "P19",
+                "cantidad": 1,
+                "precio_unitario": 2600,
+                "subtotal": 2600
+            },
+            {
+                "id_producto": "P05",
+                "cantidad": 1,
+                "precio_unitario": 1300,
+                "subtotal": 1300
+            },
+            {
+                "id_producto": "P11",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 1,
+                "precio_unitario": 3500,
+                "subtotal": 3500
+            },
+            {
+                "id_producto": "P04",
+                "cantidad": 3,
+                "precio_unitario": 2400,
+                "subtotal": 7200
+            }
+        ],
+        "propina": 1910
+    },
+    {
+        "id_venta": "V157",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 11700,
+        "productos": [
+            {
+                "id_producto": "P15",
+                "cantidad": 1,
+                "precio_unitario": 1200,
+                "subtotal": 1200
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 3,
+                "precio_unitario": 3500,
+                "subtotal": 10500
+            }
+        ],
+        "propina": 1170
+    },
+    {
+        "id_venta": "V158",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 11800,
+        "productos": [
+            {
+                "id_producto": "P08",
+                "cantidad": 1,
+                "precio_unitario": 3400,
+                "subtotal": 3400
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 1,
+                "precio_unitario": 1400,
+                "subtotal": 1400
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 2,
+                "precio_unitario": 3500,
+                "subtotal": 7000
+            }
+        ],
+        "propina": 1180
+    },
+    {
+        "id_venta": "V159",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 8900,
+        "productos": [
+            {
+                "id_producto": "P08",
+                "cantidad": 1,
+                "precio_unitario": 3400,
+                "subtotal": 3400
+            },
+            {
+                "id_producto": "P11",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 1,
+                "precio_unitario": 2500,
+                "subtotal": 2500
+            }
+        ],
+        "propina": 890
+    },
+    {
+        "id_venta": "V160",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 5600,
+        "productos": [
+            {
+                "id_producto": "P11",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P06",
+                "cantidad": 2,
+                "precio_unitario": 1300,
+                "subtotal": 2600
+            }
+        ],
+        "propina": 560
+    },
+    {
+        "id_venta": "V161",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 8600,
+        "productos": [
+            {
+                "id_producto": "P18",
+                "cantidad": 1,
+                "precio_unitario": 800,
+                "subtotal": 800
+            },
+            {
+                "id_producto": "P18",
+                "cantidad": 2,
+                "precio_unitario": 800,
+                "subtotal": 1600
+            },
+            {
+                "id_producto": "P09",
+                "cantidad": 2,
+                "precio_unitario": 1800,
+                "subtotal": 3600
+            },
+            {
+                "id_producto": "P05",
+                "cantidad": 2,
+                "precio_unitario": 1300,
+                "subtotal": 2600
+            }
+        ],
+        "propina": 860
+    },
+    {
+        "id_venta": "V162",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 12600,
+        "productos": [
+            {
+                "id_producto": "P16",
+                "cantidad": 2,
+                "precio_unitario": 2000,
+                "subtotal": 4000
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P13",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P05",
+                "cantidad": 2,
+                "precio_unitario": 1300,
+                "subtotal": 2600
+            }
+        ],
+        "propina": 1260
+    },
+    {
+        "id_venta": "V163",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 9200,
+        "productos": [
+            {
+                "id_producto": "P01",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 1,
+                "precio_unitario": 3500,
+                "subtotal": 3500
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 3,
+                "precio_unitario": 1400,
+                "subtotal": 4200
+            }
+        ],
+        "propina": 920
+    },
+    {
+        "id_venta": "V164",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 5800,
+        "productos": [
+            {
+                "id_producto": "P16",
+                "cantidad": 2,
+                "precio_unitario": 2000,
+                "subtotal": 4000
+            },
+            {
+                "id_producto": "P17",
+                "cantidad": 2,
+                "precio_unitario": 900,
+                "subtotal": 1800
+            }
+        ],
+        "propina": 580
+    },
+    {
+        "id_venta": "V165",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 9000,
+        "productos": [
+            {
+                "id_producto": "P12",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            }
+        ],
+        "propina": 900
+    },
+    {
+        "id_venta": "V166",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 14100,
+        "productos": [
+            {
+                "id_producto": "P20",
+                "cantidad": 3,
+                "precio_unitario": 2200,
+                "subtotal": 6600
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 3,
+                "precio_unitario": 2500,
+                "subtotal": 7500
+            }
+        ],
+        "propina": 1410
+    },
+    {
+        "id_venta": "V167",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 8900,
+        "productos": [
+            {
+                "id_producto": "P01",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P18",
+                "cantidad": 2,
+                "precio_unitario": 800,
+                "subtotal": 1600
+            },
+            {
+                "id_producto": "P11",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 2,
+                "precio_unitario": 1400,
+                "subtotal": 2800
+            }
+        ],
+        "propina": 890
+    },
+    {
+        "id_venta": "V168",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 20500,
+        "productos": [
+            {
+                "id_producto": "P14",
+                "cantidad": 2,
+                "precio_unitario": 1400,
+                "subtotal": 2800
+            },
+            {
+                "id_producto": "P17",
+                "cantidad": 3,
+                "precio_unitario": 900,
+                "subtotal": 2700
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 3,
+                "precio_unitario": 2600,
+                "subtotal": 7800
+            },
+            {
+                "id_producto": "P21",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 3,
+                "precio_unitario": 1400,
+                "subtotal": 4200
+            }
+        ],
+        "propina": 2050
+    },
+    {
+        "id_venta": "V169",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 7200,
+        "productos": [
+            {
+                "id_producto": "P04",
+                "cantidad": 2,
+                "precio_unitario": 2400,
+                "subtotal": 4800
+            },
+            {
+                "id_producto": "P04",
+                "cantidad": 1,
+                "precio_unitario": 2400,
+                "subtotal": 2400
+            }
+        ],
+        "propina": 720
+    },
+    {
+        "id_venta": "V170",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 6000,
+        "productos": [
+            {
+                "id_producto": "P16",
+                "cantidad": 3,
+                "precio_unitario": 2000,
+                "subtotal": 6000
+            }
+        ],
+        "propina": 600
+    },
+    {
+        "id_venta": "V171",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 11300,
+        "productos": [
+            {
+                "id_producto": "P05",
+                "cantidad": 3,
+                "precio_unitario": 1300,
+                "subtotal": 3900
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P04",
+                "cantidad": 1,
+                "precio_unitario": 2400,
+                "subtotal": 2400
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            }
+        ],
+        "propina": 1130
+    },
+    {
+        "id_venta": "V172",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 11000,
+        "productos": [
+            {
+                "id_producto": "P16",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            },
+            {
+                "id_producto": "P09",
+                "cantidad": 1,
+                "precio_unitario": 1800,
+                "subtotal": 1800
+            },
+            {
+                "id_producto": "P04",
+                "cantidad": 3,
+                "precio_unitario": 2400,
+                "subtotal": 7200
+            }
+        ],
+        "propina": 1100
+    },
+    {
+        "id_venta": "V173",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 21200,
+        "productos": [
+            {
+                "id_producto": "P21",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P03",
+                "cantidad": 2,
+                "precio_unitario": 2500,
+                "subtotal": 5000
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 3,
+                "precio_unitario": 1400,
+                "subtotal": 4200
+            }
+        ],
+        "propina": 2120
+    },
+    {
+        "id_venta": "V174",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 1800,
+        "productos": [
+            {
+                "id_producto": "P17",
+                "cantidad": 2,
+                "precio_unitario": 900,
+                "subtotal": 1800
+            }
+        ],
+        "propina": 180
+    },
+    {
+        "id_venta": "V175",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 7400,
+        "productos": [
+            {
+                "id_producto": "P05",
+                "cantidad": 2,
+                "precio_unitario": 1300,
+                "subtotal": 2600
+            },
+            {
+                "id_producto": "P09",
+                "cantidad": 1,
+                "precio_unitario": 1800,
+                "subtotal": 1800
+            },
+            {
+                "id_producto": "P21",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            }
+        ],
+        "propina": 740
+    },
+    {
+        "id_venta": "V176",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 7400,
+        "productos": [
+            {
+                "id_producto": "P02",
+                "cantidad": 3,
+                "precio_unitario": 1200,
+                "subtotal": 3600
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 1,
+                "precio_unitario": 2600,
+                "subtotal": 2600
+            },
+            {
+                "id_producto": "P02",
+                "cantidad": 1,
+                "precio_unitario": 1200,
+                "subtotal": 1200
+            }
+        ],
+        "propina": 740
+    },
+    {
+        "id_venta": "V177",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 12500,
+        "productos": [
+            {
+                "id_producto": "P15",
+                "cantidad": 2,
+                "precio_unitario": 1200,
+                "subtotal": 2400
+            },
+            {
+                "id_producto": "P14",
+                "cantidad": 1,
+                "precio_unitario": 1400,
+                "subtotal": 1400
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P12",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P17",
+                "cantidad": 3,
+                "precio_unitario": 900,
+                "subtotal": 2700
+            }
+        ],
+        "propina": 1250
+    },
+    {
+        "id_venta": "V178",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 9200,
+        "productos": [
+            {
+                "id_producto": "P18",
+                "cantidad": 2,
+                "precio_unitario": 800,
+                "subtotal": 1600
+            },
+            {
+                "id_producto": "P08",
+                "cantidad": 2,
+                "precio_unitario": 3400,
+                "subtotal": 6800
+            },
+            {
+                "id_producto": "P18",
+                "cantidad": 1,
+                "precio_unitario": 800,
+                "subtotal": 800
+            }
+        ],
+        "propina": 920
+    },
+    {
+        "id_venta": "V179",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 10100,
+        "productos": [
+            {
+                "id_producto": "P07",
+                "cantidad": 1,
+                "precio_unitario": 3500,
+                "subtotal": 3500
+            },
+            {
+                "id_producto": "P19",
+                "cantidad": 1,
+                "precio_unitario": 2600,
+                "subtotal": 2600
+            },
+            {
+                "id_producto": "P16",
+                "cantidad": 2,
+                "precio_unitario": 2000,
+                "subtotal": 4000
+            }
+        ],
+        "propina": 1010
+    },
+    {
+        "id_venta": "V180",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 10700,
+        "productos": [
+            {
+                "id_producto": "P09",
+                "cantidad": 1,
+                "precio_unitario": 1800,
+                "subtotal": 1800
+            },
+            {
+                "id_producto": "P02",
+                "cantidad": 1,
+                "precio_unitario": 1200,
+                "subtotal": 1200
+            },
+            {
+                "id_producto": "P06",
+                "cantidad": 3,
+                "precio_unitario": 1300,
+                "subtotal": 3900
+            },
+            {
+                "id_producto": "P18",
+                "cantidad": 2,
+                "precio_unitario": 800,
+                "subtotal": 1600
+            },
+            {
+                "id_producto": "P20",
+                "cantidad": 1,
+                "precio_unitario": 2200,
+                "subtotal": 2200
+            }
+        ],
+        "propina": 1070
+    },
+    {
+        "id_venta": "V181",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 8700,
+        "productos": [
+            {
+                "id_producto": "P12",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P15",
+                "cantidad": 1,
+                "precio_unitario": 1200,
+                "subtotal": 1200
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            }
+        ],
+        "propina": 870
+    },
+    {
+        "id_venta": "V182",
+        "empleado": "E3",
+        "fecha": "2024-06-15",
+        "total_venta": 7500,
+        "productos": [
+            {
+                "id_producto": "P12",
+                "cantidad": 3,
+                "precio_unitario": 1500,
+                "subtotal": 4500
+            },
+            {
+                "id_producto": "P01",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            },
+            {
+                "id_producto": "P11",
+                "cantidad": 1,
+                "precio_unitario": 1500,
+                "subtotal": 1500
+            }
+        ],
+        "propina": 750
+    }
+]

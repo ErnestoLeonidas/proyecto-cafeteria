@@ -1,0 +1,10 @@
+[
+    {
+        "id_cargo": "C1",
+        "nombre": "Administrador"
+    },
+    {
+        "id_cargo": "C2",
+        "nombre": "Camarero"
+    }
+]

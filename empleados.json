@@ -7,8 +7,15 @@
         "id_cargo": "C2"
     },
     {
+        "id_empleado": "E2",
+        "nombre": "Maria",
+        "apellido": "Dolores",
+        "sueldo": 500000,
+        "id_cargo": "C1"
+    },
+    {
         "id_empleado": "E3",
-        "nombre": "Sergio",
+        "nombre": "Juanito",
         "apellido": "Soto",
         "sueldo": 1500000,
         "id_cargo": "C1"

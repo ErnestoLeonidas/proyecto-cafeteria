@@ -136,5 +136,11 @@
         "id_empleado": "E1",
         "total_venta": 40900,
         "propina": 4090.0
+    },
+    {
+        "id_venta": 566,
+        "id_empleado": "E2",
+        "total_venta": 60000,
+        "propina": 6000.0
     }
 ]

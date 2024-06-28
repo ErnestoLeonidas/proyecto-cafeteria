@@ -1,7 +1,6 @@
 import os
 import globales
 import ventas
-import empleados
 os.system("cls")
 
 def menu_general():
@@ -20,10 +19,9 @@ def menu_general():
             ventas.precargar_ventas()
         elif opcion == 2:
             print("2. Crear Venta")
-            ventas.crear_ventas()
+            ventas.crear_venta()
         elif opcion == 3:
             print("3. Reporte de sueldos")
-            empleados.reporte_sueldos()
         elif opcion == 4:
             print("4. Estadisticas")
             print("Suma de ventas por Empleados")

@@ -35,7 +35,7 @@ def precargar_ventas():
     # ventas[-1:][0]['id_venta'] Accede solo a la clave que necesitamos
     id_venta = ventas[-1:][0]['id_venta']
 
-    for i in range(10):
+    for i in range(20):
         empleado = random.choice(empleados) # traemos 1 empleado aleatorio
 
         id_venta += 1
